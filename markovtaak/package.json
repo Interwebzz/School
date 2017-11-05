@@ -1,0 +1,26 @@
+{
+  "name": "markovtaak",
+  "version": "1.0.0",
+  "description": "Markov taak",
+  "main": "index.js",
+  "scripts": {
+    "test": "console.log(\"i'm node\")"
+  },
+  "repository": {
+    "type": "git",
+    "url": "School"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.5.0",
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.16.2",
+    "markov-chains-text": "^1.0.0",
+    "markov-strings": "^1.3.4",
+    "markovchain": "^1.0.2",
+    "markovchain-generate": "^1.0.11",
+    "say": "^0.13.1",
+    "twit": "^2.2.9"
+  }
+}
